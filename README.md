@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋</h1>
 
 <p align="left">
-My name is Daniel Cornelius, I am a Full Stack Developer from Brazi
+My name is Daniel Cornelius, I am a Full Stack Developer from Brazil
 </p>
 
 ---
