@@ -1,8 +1,7 @@
 <h1 align="left">Hey 👋</h1>
 
 <p align="left">
-My name is <b>Daniel Cornelius</b><br>
-Full Stack Developer from Brazil 🇧🇷
+My name is Daniel Cornelius, I am a Full Stack Developer from Brazi
 </p>
 
 ---
@@ -50,8 +49,6 @@ Full Stack Developer from Brazil 🇧🇷
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielCorneliusG&layout=compact&langs_count=8&theme=synthwave"/>
 
 </div>
-
----
 
 <div align="center">
 
